@@ -1,0 +1,14 @@
+.img-size{
+	margin: 15px;
+	height: 300px;
+	width: 300px;
+}
+
+body{
+	background-image: url("../img/main_wall4.jpg");
+}
+
+.border-button{
+	margin:15px;
+	width: 300px;
+}
